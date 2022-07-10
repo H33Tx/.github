@@ -1,4 +1,4 @@
-![https://h33t.moe/assets/banner/h33t.png](https://h33t.moe/assets/banner/h33t.png)
+[![https://h33t.moe/](https://h33t.moe/assets/banner/h33t.png)](https://h33t.moe)
 
 ## We are in dire need of donations!
 
